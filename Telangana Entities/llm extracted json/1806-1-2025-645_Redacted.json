@@ -1,0 +1,174 @@
+{
+  "Page 1": {
+    "Vendor": [
+      "RON 61U"
+    ],
+    "Vendee": [
+      "BOINI RAJITHA"
+    ],
+    "AgreementType": "Gift Deed",
+    "SaleAmount": "Rs. 7,66,000 /-"
+  },
+  "Page 2": {
+    "Vendor": [
+      "Donor"
+    ],
+    "Vendee": [
+      "Donee"
+    ],
+    "AgreementType": "Gift Deed",
+    "SaleAmount": "",
+    "SurveyNumber": "",
+    "PlotNumber": "",
+    "DoorNumber": "",
+    "HouseNumber": "1-166/1/B",
+    "FlatNumber": "",
+    "ApartmentName": "",
+    "locality": "TALMADLA Village",
+    "Town": "Rajampet",
+    "Village": "TALMADLA Village",
+    "Mandal": "Rajampet Mandal",
+    "District": "Kamareddy"
+  },
+  "Page 3": {
+    "Vendor": [],
+    "Vendee": [],
+    "AgreementType": "Deed of Gift",
+    "SaleAmount": "",
+    "SurveyNumber": "",
+    "PlotNumber": "",
+    "DoorNumber": "",
+    "HouseNumber": "1-166/1/B",
+    "FlatNumber": "",
+    "ApartmentName": "",
+    "locality": "TAIMADLA Village",
+    "Town": "Rajampet",
+    "Village": "TAIMADLA Village",
+    "Mandal": "Rajampet Mandal",
+    "District": "Kamareddy"
+  },
+  "Page 4": {
+    "Vendor": [],
+    "Vendee": [
+      "M/s. XYZ Builders"
+    ],
+    "AgreementType": "Sale Deed",
+    "SaleAmount": "Rs. 7,66,000/-",
+    "SurveyNumber": [],
+    "PlotNumber": [],
+    "DoorNumber": [],
+    "HouseNumber": "1-166/1/B",
+    "FlatNumber": [],
+    "ApartmentName": [],
+    "locality": "TALMADLA",
+    "Town": "",
+    "Village": "",
+    "Mandal": [],
+    "District": ""
+  },
+  "Page 5": {
+    "Vendor": [
+      "BOINI RAJU"
+    ],
+    "Vendee": [
+      "BOINI RAJITHA"
+    ],
+    "AgreementType": "",
+    "SaleAmount": "",
+    "SurveyNumber": "",
+    "PlotNumber": "1-166/1/B",
+    "DoorNumber": "",
+    "HouseNumber": "Gangaram",
+    "FlatNumber": "",
+    "ApartmentName": "",
+    "locality": "TALMADLA VILLAGE",
+    "Town": "",
+    "Village": "TALMADLA VILLAGE",
+    "Mandal": "",
+    "District": ""
+  },
+  "Page 6": {
+    "Vendor": [],
+    "Vendee": [
+      "Boini Raju"
+    ],
+    "AgreementType": "",
+    "SaleAmount": "36200",
+    "SurveyNumber": "",
+    "PlotNumber": "1166/18",
+    "DoorNumber": "",
+    "HouseNumber": "",
+    "FlatNumber": "",
+    "ApartmentName": "",
+    "locality": "Talamadla",
+    "Town": "Rajampet",
+    "Village": "",
+    "Mandal": "",
+    "District": "Kamareddy"
+  },
+  "Page 7": {
+    "error": "No valid response/output field found"
+  },
+  "Page 8": {
+    "District": "Kamareddy",
+    "Vendor": [],
+    "Vendee": [
+      "B Rajitha"
+    ],
+    "AgreementType": "Gift",
+    "SaleAmount": "",
+    "SurveyNumber": "",
+    "PlotNumber": "1-166/1/B",
+    "DoorNumber": "",
+    "HouseNumber": "",
+    "FlatNumber": "",
+    "ApartmentName": "",
+    "locality": "AREPALLY RD.",
+    "Town": "TALAMADLA",
+    "Village": "",
+    "Mandal": ""
+  },
+  "Page 10": {
+    "Vendor": [
+      "BRA 'iiame fBRAM"
+    ],
+    "Vendee": [
+      "Name RANTHA",
+      "Name 2 PATH eran"
+    ],
+    "AgreementType": "",
+    "SaleAmount": "",
+    "SurveyNumber": "",
+    "PlotNumber": "",
+    "DoorNumber": "",
+    "HouseNumber": "",
+    "FlatNumber": "",
+    "ApartmentName": "",
+    "locality": "TALMADLA",
+    "Town": "",
+    "Village": "",
+    "Mandal": "",
+    "District": "KAMAREDOY"
+  },
+  "Page 11": {
+    "Vendor": [
+      "BOINI"
+    ],
+    "Vendee": [
+      "BOINI RAJITHA"
+    ],
+    "AgreementType": "Certificate of Transfer Mutation",
+    "SaleAmount": "",
+    "SurveyNumber": "",
+    "PlotNumber": "A/166/1/B",
+    "DoorNumber": "A/166/1/B",
+    "HouseNumber": "A/166/1/B",
+    "FlatNumber": "",
+    "ApartmentName": "",
+    "locality": "TALAMADIA 7",
+    "Town": "",
+    "Village": "",
+    "Mandal": "",
+    "District": "KAMAREDDY"
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "Page 1": {
+    "Vendor": [
+      "GERIGANT! POSHAVVA"
+    ],
+    "Vendee": [
+      "GERIGANTI POCHAlAH nn"
+    ],
+    "AgreementType": "Gift Deed",
+    "SaleAmount": "Rs. 2,20,000/-"
+  },
+  "Page 2": {
+    "Vendor": [
+      "Donor"
+    ],
+    "Vendee": [
+      "Donee"
+    ],
+    "AgreementType": "Gift Deed",
+    "SaleAmount": "",
+    "SurveyNumber": "",
+    "PlotNumber": "",
+    "DoorNumber": "",
+    "HouseNumber": "5-81/1/A2",
+    "FlatNumber": "",
+    "ApartmentName": "",
+    "locality": "SANGAMESHWER Village",
+    "Town": "",
+    "Village": "SANGAMESHWER Village",
+    "Mandal": "Domakonda Mandal",
+    "District": "Kamareddy"
+  },
+  "Page 3": {
+    "Vendor": [],
+    "Vendee": [],
+    "AgreementType": "Deed of Gift",
+    "SaleAmount": "",
+    "SurveyNumber": "",
+    "PlotNumber": "5-81/1/A2",
+    "DoorNumber": "",
+    "HouseNumber": "",
+    "FlatNumber": "",
+    "ApartmentName": "",
+    "locality": "SANGAMESHWAR",
+    "Town": "Domakonda",
+    "Village": "",
+    "Mandal": "",
+    "District": "Kamareddy"
+  },
+  "Page 4": {
+    "error": "JSON decode failed after final fix: Expecting value: line 1 column 1 (char 0)",
+    "raw_fixed": "\\n```json\\n{\\n  \\\"Vendor\\\": [],\\n  \\\"Vendee\\\": [\\\"ANNEXURE-IA\\\"],\\n  \\\"AgreementType\\\": \\\"N/A\\\",\\n  \\\"SaleAmount\\\": \\\"Rs. 2,20,000/-\\\",\\n  \\\"SurveyNumber\\\": \\\"5-81/Y/A2\\\",\\n  \\\"PlotNumber\\\": \\\"N/A\\\",\\n  \\\"DoorNumber\\\": \\\"N/A\\\",\\n  \\\"HouseNumber\\\": \\\"5-81/1/A2\\\",\\n  \\\"FlatNumber\\\": \\\"N/A\\\",\\n  \\\"Apar"
+  },
+  "Page 5": {
+    "Vendor": [
+      "GERIGANTI POsHAVVA"
+    ],
+    "Vendee": [
+      "GERIGANTI POCHAIAH"
+    ],
+    "AgreementType": "",
+    "SaleAmount": "",
+    "SurveyNumber": "",
+    "PlotNumber": [
+      "5-81/1/A2"
+    ],
+    "DoorNumber": "",
+    "HouseNumber": [
+      "5-81/1/A2"
+    ],
+    "FlatNumber": "",
+    "ApartmentName": "",
+    "locality": [
+      "SANGAMESHWAR VILLAGE"
+    ],
+    "Town": "",
+    "Village": [
+      "SANGAMESHWAR VILLAGE"
+    ],
+    "Mandal": "",
+    "District": ""
+  },
+  "Page 6": {
+    "Vendor": [],
+    "Vendee": [
+      "family members"
+    ],
+    "AgreementType": "",
+    "SaleAmount": "",
+    "SurveyNumber": "",
+    "PlotNumber": "7C3MEMV9",
+    "DoorNumber": "",
+    "HouseNumber": "PS-STU ALD",
+    "FlatNumber": "",
+    "ApartmentName": "",
+    "locality": "DOMAKONIDA",
+    "Town": "PELANGANA",
+    "Village": "",
+    "Mandal": "",
+    "District": "Kamareddy"
+  },
+  "Page 7": {
+    "Vendor": [],
+    "Vendee": [
+      "Sarganeshviar' Fp ioe sp"
+    ],
+    "AgreementType": "",
+    "SaleAmount": "",
+    "SurveyNumber": [],
+    "PlotNumber": [],
+    "DoorNumber": [
+      "B-8iiaz"
+    ],
+    "HouseNumber": [
+      "B-8iiaz"
+    ],
+    "FlatNumber": [],
+    "ApartmentName": [],
+    "locality": [
+      "Domakondal Panchayat"
+    ],
+    "Town": [
+      "Kamareddy"
+    ],
+    "Village": [],
+    "Mandal": [
+      "Domakondal Panchayat"
+    ],
+    "District": [
+      "Kamareddy"
+    ]
+  },
+  "Page 8": {
+    "Vendor": [],
+    "Vendee": [],
+    "AgreementType": "",
+    "SaleAmount": "",
+    "SurveyNumber": "",
+    "PlotNumber": "",
+    "DoorNumber": "",
+    "HouseNumber": "",
+    "FlatNumber": "",
+    "ApartmentName": "",
+    "locality": "",
+    "Town": "",
+    "Village": "",
+    "Mandal": "",
+    "District": ""
+  },
+  "Page 9": {
+    "Vendor": [
+      "GERIGANT! POSHAVS"
+    ],
+    "Vendee": [
+      "1, GERIGANT! POCHAIAH"
+    ],
+    "AgreementType": "Certificate of Transfer/Mutation",
+    "SaleAmount": "",
+    "SurveyNumber": "",
+    "PlotNumber": "5/81/1/A2",
+    "DoorNumber": "5/81/1/A2",
+    "HouseNumber": "5/81/1/A2",
+    "FlatNumber": "",
+    "ApartmentName": "",
+    "locality": "SANGAMESHWAR",
+    "Town": "KAMAREDDY",
+    "Village": "",
+    "Mandal": "",
+    "District": "KAMAREDDY"
+  },
+  "Page 10": {
+    "Vendor": [
+      "G POSHAVVA"
+    ],
+    "Vendee": [
+      "POCHAIAR"
+    ],
+    "AgreementType": "Gift",
+    "SaleAmount": "Ten Thousand Seven Hundred Eighty",
+    "SurveyNumber": "",
+    "PlotNumber": "",
+    "DoorNumber": "",
+    "HouseNumber": "",
+    "FlatNumber": "",
+    "ApartmentName": "",
+    "locality": "SANGAMESHWAR",
+    "Town": "SANGAMESHWARA",
+    "Village": "",
+    "Mandal": "",
+    "District": "KAMAREODY"
+  }
+}

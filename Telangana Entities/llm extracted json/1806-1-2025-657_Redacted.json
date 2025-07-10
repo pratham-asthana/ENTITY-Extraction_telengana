@@ -1,0 +1,181 @@
+{
+  "Page 1": {
+    "Vendor": [
+      "SRIRAM JANAMMA"
+    ],
+    "Vendee": [
+      "SRIRAM RAKESH"
+    ],
+    "AgreementType": "Gift Deed",
+    "SaleAmount": "Rs. 6,70,000",
+    "SurveyNumber": "",
+    "PlotNumber": "",
+    "DoorNumber": "1-37/B",
+    "HouseNumber": "",
+    "FlatNumber": "",
+    "ApartmentName": "",
+    "locality": "Domakonda",
+    "Town": "Kamareddy",
+    "Village": "Domakonda",
+    "Mandal": "",
+    "District": "Kamareddy"
+  },
+  "Page 2": {
+    "Vendor": [
+      "Donor"
+    ],
+    "Vendee": [
+      "Donee"
+    ],
+    "AgreementType": "Transfer",
+    "SaleAmount": "",
+    "SurveyNumber": "",
+    "PlotNumber": "",
+    "DoorNumber": "1-37/B",
+    "HouseNumber": "1-15/6F",
+    "FlatNumber": "",
+    "ApartmentName": "",
+    "locality": "Ambarpet",
+    "Town": "Domakonda",
+    "Village": "Ambarpet",
+    "Mandal": "Domakonda",
+    "District": "Kamareddy"
+  },
+  "Page 3": {
+    "Vendor": [],
+    "Vendee": [],
+    "AgreementType": "",
+    "SaleAmount": "",
+    "SurveyNumber": "",
+    "PlotNumber": "1-15/6F",
+    "DoorNumber": "",
+    "HouseNumber": "1-15",
+    "FlatNumber": "6F",
+    "ApartmentName": "",
+    "locality": "AMBARPET Village",
+    "Town": "",
+    "Village": "AMBARPET Village",
+    "Mandal": "Domakonda Mandal",
+    "District": "Nizamabad"
+  },
+  "Page 4": {
+    "Vendor": [],
+    "Vendee": [
+      "Seller"
+    ],
+    "AgreementType": "Sale Deed",
+    "SaleAmount": "Rs. 6,70,000/-",
+    "SurveyNumber": "",
+    "PlotNumber": "1-15/6F",
+    "DoorNumber": "",
+    "HouseNumber": "1-15/6F",
+    "FlatNumber": "",
+    "ApartmentName": "",
+    "locality": "AMBARPET",
+    "Town": "",
+    "Village": "",
+    "Mandal": "",
+    "District": ""
+  },
+  "Page 5": {
+    "Vendor": [
+      "Sriram Janamma"
+    ],
+    "Vendee": [
+      "Sriram Mahesh"
+    ],
+    "AgreementType": "",
+    "SaleAmount": "",
+    "SurveyNumber": "",
+    "PlotNumber": "",
+    "DoorNumber": "",
+    "HouseNumber": "1-15/6F",
+    "FlatNumber": "",
+    "ApartmentName": "",
+    "locality": "Ambarpet Village",
+    "Town": "",
+    "Village": "Ambarpet Village",
+    "Mandal": "",
+    "District": ""
+  },
+  "Page 6": {
+    "Vendor": [],
+    "Vendee": [],
+    "AgreementType": "",
+    "SaleAmount": "",
+    "SurveyNumber": "",
+    "PlotNumber": "",
+    "DoorNumber": "",
+    "HouseNumber": "",
+    "FlatNumber": "",
+    "ApartmentName": "",
+    "locality": "Ambaripet",
+    "Town": "",
+    "Village": "",
+    "Mandal": "Domakonda",
+    "District": "Kamareddy"
+  },
+  "Page 7": {
+    "Vendor": [],
+    "Vendee": [
+      "SrifSmt.Sriram Janamma"
+    ],
+    "AgreementType": "House Building Permission Order",
+    "SaleAmount": "",
+    "SurveyNumber": "",
+    "PlotNumber": "1-15/6F",
+    "DoorNumber": "1-15/6F",
+    "HouseNumber": "",
+    "FlatNumber": "",
+    "ApartmentName": "",
+    "locality": "",
+    "Town": "",
+    "Village": "",
+    "Mandal": "DOMAKONDA",
+    "District": ""
+  },
+  "Page 10": {
+    "Vendor": [
+      "SRIRAM JANAMMA"
+    ],
+    "Vendee": [
+      "SRIRAM MAHESH"
+    ],
+    "AgreementType": "",
+    "SaleAmount": "",
+    "SurveyNumber": "",
+    "PlotNumber": "",
+    "DoorNumber": "",
+    "HouseNumber": "",
+    "FlatNumber": "",
+    "ApartmentName": "",
+    "locality": "AMBARPET",
+    "Town": "",
+    "Village": "",
+    "Mandal": "",
+    "District": ""
+  },
+  "Page 11": {
+    "Vendor": [
+      "Sriram Janamma",
+      "Sriram Maisaiah",
+      "Sriram Rakesh"
+    ],
+    "Vendee": [
+      "Sriram Mahesh"
+    ],
+    "AgreementType": "Certificate of Transfer/Mutation",
+    "SaleAmount": "",
+    "SurveyNumber": "",
+    "PlotNumber": "1/15/6F",
+    "DoorNumber": "3",
+    "HouseNumber": "OE | -1/15/6F",
+    "FlatNumber": "",
+    "ApartmentName": "",
+    "locality": "Ambaripet",
+    "Town": "Kamareddy",
+    "Village": "",
+    "Mandal": "",
+    "District": "Kamareddy"
+  }
+}

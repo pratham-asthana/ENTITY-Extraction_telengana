@@ -1,0 +1,194 @@
+{
+  "Page 1": {
+    "Vendor": [
+      "CHINTHALA MOHAN"
+    ],
+    "Vendee": [
+      "KANNAPURAM SIDDA RAMULU"
+    ],
+    "AgreementType": "Sale Deed",
+    "SaleAmount": "RS. 26,000/-"
+  },
+  "Page 2": {
+    "Vendor": [
+      "Vendor Name"
+    ],
+    "Vendee": [
+      "Vendee Name"
+    ],
+    "AgreementType": "Sale Deed",
+    "SaleAmount": "Rs. 26,000/-",
+    "SurveyNumber": "",
+    "PlotNumber": "",
+    "DoorNumber": "",
+    "HouseNumber": "",
+    "FlatNumber": "",
+    "ApartmentName": "",
+    "locality": "Rajampet Village",
+    "Town": "",
+    "Village": "Rajampet Village",
+    "Mandal": "Rajampet Mandal",
+    "District": "Kamareddy"
+  },
+  "Page 3": {
+    "Vendor": [],
+    "Vendee": [],
+    "AgreementType": "Sale Deed",
+    "SaleAmount": "",
+    "SurveyNumber": "",
+    "PlotNumber": "",
+    "DoorNumber": "",
+    "HouseNumber": "",
+    "FlatNumber": "",
+    "ApartmentName": "",
+    "locality": "",
+    "Town": "",
+    "Village": "",
+    "Mandal": "",
+    "District": ""
+  },
+  "Page 4": {
+    "Vendor": [],
+    "Vendee": [],
+    "AgreementType": "Deed of Sale",
+    "SaleAmount": "",
+    "SurveyNumber": "RAJAMPET M.P.",
+    "PlotNumber": "3-40",
+    "DoorNumber": "",
+    "HouseNumber": "",
+    "FlatNumber": "",
+    "ApartmentName": "",
+    "locality": "RAJAMPET Village",
+    "Town": "",
+    "Village": "RAJAMPET Village",
+    "Mandal": "Rajampet Mandal",
+    "District": "Kamareddy"
+  },
+  "Page 5": {
+    "Vendor": [],
+    "Vendee": [],
+    "AgreementType": "",
+    "SaleAmount": "Rs. 26,000/-",
+    "SurveyNumber": "50.11",
+    "PlotNumber": "",
+    "DoorNumber": "",
+    "HouseNumber": "3-40",
+    "FlatNumber": "",
+    "ApartmentName": "",
+    "locality": "Rajampet Village",
+    "Town": "",
+    "Village": "Rajampet Village",
+    "Mandal": "Rajampet Mandal",
+    "District": "Kamareddy"
+  },
+  "Page 6": {
+    "Vendor": [
+      "CHINTHALA MOHAN"
+    ],
+    "Vendee": [
+      "KANNAPURAM SIDDA RAMULU"
+    ],
+    "AgreementType": "",
+    "SaleAmount": "",
+    "SurveyNumber": "",
+    "PlotNumber": "G.P.H.No. 3-40",
+    "DoorNumber": "",
+    "HouseNumber": "",
+    "FlatNumber": "",
+    "ApartmentName": "",
+    "locality": "RAJAMPET VILLAGE",
+    "Town": "",
+    "Village": "RAJAMPET VILLAGE",
+    "Mandal": "",
+    "District": ""
+  },
+  "Page 7": {
+    "Vendor": [],
+    "Vendee": [
+      "Chinthala Mohan"
+    ],
+    "AgreementType": "",
+    "SaleAmount": "",
+    "SurveyNumber": "",
+    "PlotNumber": "",
+    "DoorNumber": "",
+    "HouseNumber": "",
+    "FlatNumber": "",
+    "ApartmentName": "",
+    "locality": "Rajampet",
+    "Town": "",
+    "Village": "",
+    "Mandal": "Rajampet",
+    "District": "Kamareddy"
+  },
+  "Page 8": {
+    "Vendor": [
+      "RKannipuram Sidda Ramulu"
+    ],
+    "Vendee": [],
+    "AgreementType": "",
+    "SaleAmount": "",
+    "SurveyNumber": "",
+    "PlotNumber": [
+      "4-40"
+    ],
+    "DoorNumber": [],
+    "HouseNumber": [],
+    "FlatNumber": [],
+    "ApartmentName": [],
+    "locality": [
+      "AMOR - RI. RAJSAMPED. LINGAY APALLE"
+    ],
+    "Town": [],
+    "Village": [],
+    "Mandal": [],
+    "District": [
+      "Kamaredas"
+    ]
+  },
+  "Page 10": {
+    "Vendor": [
+      "SIDDARAMULU, KANNAPURAM SODA",
+      "SIDDARAMULU, KANNAPURAM"
+    ],
+    "Vendee": [
+      "RAIAMPET, OE"
+    ],
+    "AgreementType": "",
+    "SaleAmount": "Rs. 32000 /-",
+    "SurveyNumber": "",
+    "PlotNumber": "",
+    "DoorNumber": "",
+    "HouseNumber": "",
+    "FlatNumber": "",
+    "ApartmentName": "",
+    "locality": "RAMAREDIY",
+    "Town": "KAMAREDDY",
+    "Village": "",
+    "Mandal": "",
+    "District": ""
+  },
+  "Page 11": {
+    "Vendor": [
+      "CHINTHALA MOHAN BD"
+    ],
+    "Vendee": [
+      "KANNAPURAM SIDA RAMULU"
+    ],
+    "AgreementType": "Certificate of Transfer/Mutation",
+    "SaleAmount": "",
+    "SurveyNumber": "",
+    "PlotNumber": "3-40",
+    "DoorNumber": "3-40",
+    "HouseNumber": "3-40",
+    "FlatNumber": "",
+    "ApartmentName": "",
+    "locality": [
+      "RAIAMPET"
+    ],
+    "Town": "KAMAREDDY",
+    "Village": "",
+    "Mandal": "",
+    "District": "KAMAREDDY"
+  }
+}

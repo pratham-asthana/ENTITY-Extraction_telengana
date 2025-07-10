@@ -1,0 +1,200 @@
+{
+  "Page 1": {
+    "Vendor": [
+      "NASKANTI KA"
+    ],
+    "Vendee": [
+      "Rio"
+    ],
+    "AgreementType": "SALE DEED",
+    "SaleAmount": "RS. 37000/-"
+  },
+  "Page 2": {
+    "Vendor": [
+      "Vendor Name"
+    ],
+    "Vendee": [
+      "Vendee Name"
+    ],
+    "AgreementType": "Sale Deed",
+    "SaleAmount": "Rs. 37,000/-",
+    "SurveyNumber": [
+      "276/A/1/1",
+      "276/A/1/1/2"
+    ],
+    "PlotNumber": "",
+    "DoorNumber": "",
+    "HouseNumber": "",
+    "FlatNumber": "",
+    "ApartmentName": "",
+    "locality": [
+      "GHANPUR(M) Village"
+    ],
+    "Town": [
+      "Machareddy"
+    ],
+    "Village": [
+      "GHANPUR(M) Village"
+    ],
+    "Mandal": [
+      "Machareddy"
+    ],
+    "District": [
+      "Kamareddy"
+    ]
+  },
+  "Page 3": {
+    "Vendor": [],
+    "Vendee": [],
+    "AgreementType": "Sale Deed",
+    "SaleAmount": "",
+    "SurveyNumber": "",
+    "PlotNumber": "",
+    "DoorNumber": "",
+    "HouseNumber": "",
+    "FlatNumber": "",
+    "ApartmentName": "",
+    "locality": "",
+    "Town": "",
+    "Village": "",
+    "Mandal": "",
+    "District": ""
+  },
+  "Page 4": {
+    "Vendor": [],
+    "Vendee": [],
+    "AgreementType": "Deed of Sale",
+    "SaleAmount": "",
+    "SurveyNumber": "27G/A/1/1",
+    "PlotNumber": "",
+    "DoorNumber": "",
+    "HouseNumber": "",
+    "FlatNumber": "",
+    "ApartmentName": "",
+    "locality": "GHANPUR(M)",
+    "Town": "",
+    "Village": "GHANPUR(M) Village",
+    "Mandal": "Machareddy Mandal",
+    "District": "Kamareddy"
+  },
+  "Page 5": {
+    "Vendor": [],
+    "Vendee": [],
+    "AgreementType": "",
+    "SaleAmount": "Rs. 37,000/-",
+    "SurveyNumber": "276/A/1/4",
+    "PlotNumber": [],
+    "DoorNumber": [],
+    "HouseNumber": [],
+    "FlatNumber": [],
+    "ApartmentName": [],
+    "locality": "Ghanpur(M)",
+    "Town": "Machareddy",
+    "Village": "Ghanpur(M)",
+    "Mandal": "Machareddy",
+    "District": "Kamareddy"
+  },
+  "Page 6": {
+    "Vendor": [
+      "NASKANT! KAMAL A"
+    ],
+    "Vendee": [
+      "PENUGONDA SUSHILA"
+    ],
+    "AgreementType": "",
+    "SaleAmount": "",
+    "SurveyNumber": [
+      "276/A/1/1"
+    ],
+    "PlotNumber": [],
+    "DoorNumber": [],
+    "HouseNumber": [],
+    "FlatNumber": [],
+    "ApartmentName": [],
+    "locality": [
+      "GHANPU R(M)"
+    ],
+    "Town": "",
+    "Village": [
+      "GHANPU R(M)"
+    ],
+    "Mandal": "",
+    "District": ""
+  },
+  "Page 7": {
+    "error": "No valid response/output field found"
+  },
+  "Page 8": {
+    "District": "Kamareddy",
+    "Mandal": "",
+    "Village": "Srarog Ghanpur(M)",
+    "Locality": "",
+    "AgreementType": "",
+    "SaleAmount": "18/500",
+    "Vendor": [
+      [
+        "Anumula Revanth Gs Dharant o Mealy Be Sri",
+        "Ponguletl Srinivas Reddy Reddy"
+      ]
+    ],
+    "Vendee": [],
+    "SurveyNumber": [
+      "619",
+      "9206"
+    ],
+    "PlotNumber": [],
+    "DoorNumber": [],
+    "HouseNumber": [],
+    "FlatNumber": [],
+    "ApartmentName": "",
+    "Town": ""
+  },
+  "Page 10": {
+    "Vendor": [
+      "SUSHILA"
+    ],
+    "Vendee": [
+      "USHA"
+    ],
+    "AgreementType": "Sale Deed",
+    "SaleAmount": "Rs. Four Thousand Two Hundred Fifty Rupees",
+    "SurveyNumber": "",
+    "PlotNumber": "",
+    "DoorNumber": "",
+    "HouseNumber": "",
+    "FlatNumber": "",
+    "ApartmentName": "",
+    "locality": "YELLAMPET",
+    "Town": "KAMAREDDY",
+    "Village": "",
+    "Mandal": "",
+    "District": "KAMAREDDY"
+  },
+  "Page 11": {
+    "Vendor": [
+      "ESN OM"
+    ],
+    "Vendee": [
+      "PENUGONDA SUSHILA"
+    ],
+    "AgreementType": "Certificate of Transfer Mutation",
+    "SaleAmount": "",
+    "SurveyNumber": [
+      "2IEf/AS/1/1"
+    ],
+    "PlotNumber": [
+      "a. | : NAT."
+    ],
+    "DoorNumber": "",
+    "HouseNumber": "",
+    "FlatNumber": "",
+    "ApartmentName": "",
+    "locality": [
+      "GHANPUR M"
+    ],
+    "Town": "KAMAR - DDY",
+    "Village": "",
+    "Mandal": "",
+    "District": "KAMAR"
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "Page 1": {
+    "Vendor": [
+      "RAGULA BHOOMA GOUD"
+    ],
+    "Vendee": [
+      "RAGULA SWAMY GOUD"
+    ],
+    "AgreementType": "Sale Deed",
+    "SaleAmount": "RS. 59,000/-"
+  },
+  "Page 2": {
+    "Vendor": [
+      "Vendor Name"
+    ],
+    "Vendee": [
+      "Vendee Name"
+    ],
+    "AgreementType": "Sale Deed",
+    "SaleAmount": "Rs. 59,000/-",
+    "SurveyNumber": "",
+    "PlotNumber": "",
+    "DoorNumber": "",
+    "HouseNumber": "",
+    "FlatNumber": "",
+    "ApartmentName": "",
+    "locality": "Chintamanpally",
+    "Town": "",
+    "Village": "Domakonda",
+    "Mandal": "",
+    "District": "Kamaready"
+  },
+  "Page 3": {
+    "Vendor": [],
+    "Vendee": [],
+    "AgreementType": "Assignment of Sale",
+    "SaleAmount": "",
+    "SurveyNumber": "",
+    "PlotNumber": "",
+    "DoorNumber": "",
+    "HouseNumber": "",
+    "FlatNumber": "",
+    "ApartmentName": "",
+    "locality": "",
+    "Town": "",
+    "Village": "",
+    "Mandal": "",
+    "District": ""
+  },
+  "Page 4": {
+    "Vendor": [],
+    "Vendee": [],
+    "AgreementType": "",
+    "SaleAmount": "",
+    "SurveyNumber": "",
+    "PlotNumber": "",
+    "DoorNumber": "",
+    "HouseNumber": "",
+    "FlatNumber": "",
+    "ApartmentName": "",
+    "locality": "CHINTAMANPALLY Village",
+    "Town": "",
+    "Village": "CHINTAMANPALLY Village",
+    "Mandal": "Domakenda Mandal",
+    "District": "Kamareddy"
+  },
+  "Page 5": {
+    "Vendor": [],
+    "Vendee": [],
+    "AgreementType": "",
+    "SaleAmount": "Rs.59,000/-",
+    "SurveyNumber": "195.62",
+    "PlotNumber": [],
+    "DoorNumber": [],
+    "HouseNumber": [],
+    "FlatNumber": [],
+    "ApartmentName": [],
+    "locality": "CHINTAMANPALLY",
+    "Town": "",
+    "Village": "VILLAGE OF DOMAKONDA",
+    "Mandal": "DOMAKONDY MANDAL",
+    "District": "KAMAREDDY DISTRICT"
+  },
+  "Page 6": {
+    "error": "JSON decode failed after final fix: Final decode failed: Expecting value: line 1 column 1 (char 0) | raw: ```json\\n{\\n  \\\"Vendor\\\": [\\\"RAGULA BHOOMA GOUD\\\"],\\n  \\\"Vendee\\\": [\\\"RAGULA SWAMY GOUD\\\"],\\n  \\\"AgreementType\\\": \\\"\\\",\\n  \\\"SaleAmount\\\": \\\"Rs. 1780.",
+    "raw_fixed": "```json\\n{\\n  \\\"Vendor\\\": [\\\"RAGULA BHOOMA GOUD\\\"],\\n  \\\"Vendee\\\": [\\\"RAGULA SWAMY GOUD\\\"],\\n  \\\"AgreementType\\\": \\\"\\\",\\n  \\\"SaleAmount\\\": \\\"Rs. 1780.62 /-\\\",\\n  \\\"SurveyNumber\\\": \\\"\\\",\\n  \\\"PlotNumber\\\": \\\"\\\",\\n  \\\"DoorNumber\\\": \\\"\\\",\\n  \\\"HouseNumber\\\": \\\"\\\",\\n  \\\"FlatNumber\\\": \\\"\\\",\\n  \\\"Apartmen"
+  },
+  "Page 7": {
+    "Vendor": [],
+    "Vendee": [
+      "Rural Employment and Panchayati Raj"
+    ],
+    "AgreementType": "",
+    "SaleAmount": "",
+    "SurveyNumber": "",
+    "PlotNumber": "",
+    "DoorNumber": "2-64",
+    "HouseNumber": "",
+    "FlatNumber": "",
+    "ApartmentName": "",
+    "locality": "",
+    "Town": "",
+    "Village": "",
+    "Mandal": "",
+    "District": ""
+  },
+  "Page 9": {
+    "Vendor": [],
+    "Vendee": [],
+    "AgreementType": "",
+    "SaleAmount": "",
+    "SurveyNumber": "",
+    "PlotNumber": "",
+    "DoorNumber": "",
+    "HouseNumber": "",
+    "FlatNumber": "",
+    "ApartmentName": "",
+    "locality": "",
+    "Town": "",
+    "Village": "",
+    "Mandal": "",
+    "District": ""
+  },
+  "Page 10": {
+    "Vendor": [
+      "BAGUA ENNE 90NP CO A"
+    ],
+    "Vendee": [
+      "H+ RAGULA SWAMY GOU"
+    ],
+    "AgreementType": "Certificate of Transfer/Mutation",
+    "SaleAmount": "",
+    "SurveyNumber": "",
+    "PlotNumber": "2/64",
+    "DoorNumber": "2/64",
+    "HouseNumber": "2/64",
+    "locality": "CHAHINTAMANPALLY",
+    "Town": "CHITAMANPALLY",
+    "District": "KAMAREDDY"
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "Page 1": {
+    "Vendor": [
+      "___SINGIREDDY ANASUYA",
+      "Anusuya"
+    ],
+    "Vendee": [
+      "ARVA HEMAVATHI",
+      "Hemavathi"
+    ],
+    "AgreementType": "Sale Deed",
+    "SaleAmount": "Rs.2,20,000/-"
+  },
+  "Page 2": {
+    "Vendor": [
+      "Vendor"
+    ],
+    "Vendee": [
+      "above vendee"
+    ],
+    "AgreementType": "Sale Deed",
+    "SaleAmount": "Rs. 2,20,000/- (Rupees Two Lakhs Twenty Thousand Only)",
+    "SurveyNumber": [
+      "397, 996/6, 997/6, 997/7, 997/8, 8997/9, 997/10, 997/2"
+    ],
+    "PlotNumber": "51",
+    "DoorNumber": "",
+    "HouseNumber": "",
+    "FlatNumber": "",
+    "ApartmentName": "",
+    "locality": "BHIKNOOR Village",
+    "Town": "",
+    "Village": "BHIKNOOR",
+    "Mandal": "Bhiknoor Mandal",
+    "District": "Kamareddy"
+  },
+  "Page 3": {
+    "Vendor": [],
+    "Vendee": [],
+    "AgreementType": "Sale Deed",
+    "SaleAmount": "",
+    "SurveyNumber": "",
+    "PlotNumber": "",
+    "DoorNumber": "",
+    "HouseNumber": "",
+    "FlatNumber": "",
+    "ApartmentName": "",
+    "locality": "",
+    "Town": "",
+    "Village": "",
+    "Mandal": "",
+    "District": ""
+  },
+  "Page 4": {
+    "Vendor": [],
+    "Vendee": [],
+    "AgreementType": "Deed of Sale",
+    "SaleAmount": "",
+    "SurveyNumber": [
+      "996/6",
+      "997/6",
+      "997/7",
+      "997/8",
+      "997/19",
+      "997/10",
+      "997/2"
+    ],
+    "PlotNumber": "51",
+    "DoorNumber": "",
+    "HouseNumber": "",
+    "FlatNumber": "",
+    "ApartmentName": "",
+    "locality": "Bhiknoor",
+    "Town": "Bhiknoor",
+    "Village": "Bhiknoor",
+    "Mandal": "Kamareddy",
+    "District": "Nizamabad"
+  },
+  "Page 5": {
+    "Vendor": [],
+    "Vendee": [],
+    "AgreementType": "",
+    "SaleAmount": "Rs. 2,20,000/-",
+    "SurveyNumber": [
+      "Sy. Na. 997, 996/6, 997/6, 9977, 997/78, 997/9, 997/10, 997/2"
+    ],
+    "PlotNumber": [
+      "No.57"
+    ],
+    "locality": [
+      "Block No.12"
+    ],
+    "Town": "",
+    "Village": [
+      "BHIKNOOR"
+    ],
+    "Mandal": [
+      "Bhiknoor"
+    ],
+    "District": [
+      "Kamareddy"
+    ]
+  },
+  "Page 6": {
+    "Vendor": [
+      "SINGIREDDY ANASUYA @ ANUSUYA"
+    ],
+    "Vendee": [
+      "ARVA HEMAVA TH"
+    ],
+    "AgreementType": "",
+    "SaleAmount": "",
+    "SurveyNumber": [
+      "997",
+      "3996/6",
+      "9971/6",
+      "3997/7",
+      "997/8",
+      "997/9",
+      "997/10",
+      "997/2"
+    ],
+    "PlotNumber": [
+      "51"
+    ],
+    "DoorNumber": "",
+    "HouseNumber": "",
+    "FlatNumber": "",
+    "ApartmentName": "",
+    "locality": [
+      "BHIKNOOR VILLAGE"
+    ],
+    "Town": "",
+    "Village": [
+      "BHIKNOOR VILLAGE"
+    ],
+    "Mandal": "",
+    "District": ""
+  },
+  "Page 7": {
+    "Vendor": [],
+    "Vendee": [
+      "Srinivas",
+      "Santhosh",
+      "Teewicct Leyout"
+    ],
+    "AgreementType": "Reg. /",
+    "SaleAmount": "",
+    "SurveyNumber": [
+      "998/6",
+      "997",
+      "SET",
+      "ag7!G",
+      "Sa7f?",
+      "GSTS",
+      "597/9",
+      "97/10"
+    ],
+    "PlotNumber": "",
+    "DoorNumber": "",
+    "HouseNumber": "",
+    "FlatNumber": "",
+    "ApartmentName": "",
+    "locality": [
+      "Bhikneer Grampanchayat",
+      "Prashanthnaga NigamaberBistict"
+    ],
+    "Town": "",
+    "Village": "",
+    "Mandal": [
+      "Domakonda Mandal"
+    ],
+    "District": [
+      "Nizamabad"
+    ]
+  },
+  "Page 8": {
+    "Vendor": [],
+    "Vendee": [],
+    "AgreementType": "",
+    "SaleAmount": "",
+    "SurveyNumber": "",
+    "PlotNumber": "",
+    "DoorNumber": "",
+    "HouseNumber": "",
+    "FlatNumber": "",
+    "ApartmentName": "",
+    "locality": "",
+    "Town": "",
+    "Village": "",
+    "Mandal": "",
+    "District": ""
+  },
+  "Page 9": {
+    "Vendor": [
+      "singireddy anasuya"
+    ],
+    "Vendee": [
+      "arva hamavathi"
+    ],
+    "AgreementType": "Sale Deed",
+    "SaleAmount": "",
+    "SurveyNumber": "",
+    "PlotNumber": "5",
+    "DoorNumber": "",
+    "HouseNumber": "",
+    "FlatNumber": "",
+    "ApartmentName": "",
+    "locality": "BHIKNOOR",
+    "Town": "TELANGANA",
+    "Village": "",
+    "Mandal": "",
+    "District": ""
+  },
+  "Page 11": {
+    "Vendor": [
+      "SINGIREDDY ANASUYA"
+    ],
+    "Vendee": [
+      "ARVA HEMAVATHI"
+    ],
+    "AgreementType": "Certificate of Transfer/Mutation",
+    "SaleAmount": "",
+    "SurveyNumber": [
+      "997,996/6,997/6,997/7,997/8,997/9,997/10,997/2"
+    ],
+    "PlotNumber": [
+      "CO | ot | a | | "
+    ],
+    "DoorNumber": "",
+    "HouseNumber": "",
+    "FlatNumber": "",
+    "ApartmentName": "",
+    "locality": [
+      "BHIKNOOR"
+    ],
+    "Town": [
+      "OOK KAMAREDDY"
+    ],
+    "Village": "",
+    "Mandal": "",
+    "District": [
+      "OOK KAMAREDDY"
+    ]
+  },
+  "Page 12": {
+    "Vendor": [
+      "SINGIREDDY ANASUYA"
+    ],
+    "Vendee": [
+      "ARVA HAMAVATHI"
+    ],
+    "AgreementType": "Sale Deed",
+    "SaleAmount": "Rs. 17,750 /-",
+    "SurveyNumber": "",
+    "PlotNumber": "",
+    "DoorNumber": "",
+    "HouseNumber": "",
+    "FlatNumber": "",
+    "ApartmentName": "",
+    "locality": "MOOSAPET, BALANAGAR, KV",
+    "Town": "",
+    "Village": "",
+    "Mandal": "",
+    "District": ""
+  }
+}
